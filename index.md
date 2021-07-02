@@ -3,7 +3,7 @@ layout: page
 full_logo: true
 title: Reuniões
 subtitle: Programação e links das reuniões
-description: A minimal yet feature-rich Jekyll theme made for personal websites and blogs.
+description: Ala fazendinha: programação e informações.
 sitemap:
   priority: 1.0
 ---
