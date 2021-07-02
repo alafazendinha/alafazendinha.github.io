@@ -9,8 +9,8 @@ sitemap:
 ---
 <div>
    <div class="card-deck">
-      <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/sacrament_meeting.jpeg" alt="Card image">
+      <div class="card">
+         <img class="card-img-top" src="assets/img/sacrament_meeting.jpeg" alt="Todos os domingos | 09:00 hs">
          <div class="card-body">
             <h4 class="card-title">Reunião Sacramental</h4>
             <p class="card-text">Todos os domingos | 09:00 hs.</p>
@@ -18,15 +18,15 @@ sitemap:
          </div>
       </div>
       <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/pictures_of_jesus_with_a_child.jpeg" alt="Card image">
+         <img class="card-img-top" src="assets/img/pictures_of_jesus_with_a_child.jpeg" alt="Todos os domingos | 11:15 hs">
          <div class="card-body">
             <h4 class="card-title">Primária</h4>
             <p class="card-text">Todos os domingos | 11:15 hs.</p>
             <a target="_blank" href="https://meet.google.com/ohk-iham-xmr" class="btn btn-primary">Visitar</a>
          </div>
       </div>
-      <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/adult_lds_sunday_school_class.jpeg" alt="Card image">
+      <div class="card">
+         <img class="card-img-top" src="assets/img/adult_lds_sunday_school_class.jpeg" alt="Escola Dominical - Adultos">
          <div class="card-body">
             <h4 class="card-title">Escola Dominical - Adultos</h4>
             <p class="card-text">1° e 3° domingo | 10:30 hs.</p>
@@ -36,24 +36,24 @@ sitemap:
    </div>
    <br />
    <div class="card-deck">
-      <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/youth_sunday_school_class_12.jpeg" alt="Card image">
+      <div class="card">
+         <img class="card-img-top" src="assets/img/youth_sunday_school_class_12.jpeg" alt="Escola Dominical - Jovens 11-14">
          <div class="card-body">
             <h4 class="card-title">Escola Dominical - Jovens 11-14</h4>
             <p class="card-text">1° e 3° domingo | 10:30 hs.</p>
             <a target="_blank" href="https://us04web.zoom.us/j/75898365110?pwd=L0xEMjVnbkp2MFFUQmhXbmhiZUhWdz09" class="btn btn-primary">Visitar</a>
          </div>
       </div>
-      <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/youth_sunday_school_class.jpeg" alt="Card image">
+      <div class="card">
+         <img class="card-img-top" src="assets/img/youth_sunday_school_class.jpeg" alt="Escola Dominical - Jovens 15-1">
          <div class="card-body">
             <h4 class="card-title">Escola Dominical - Jovens 15-17</h4>
             <p class="card-text">1° e 3° domingo | 10:30 hs.</p>
             <a target="_blank" href="https://zoom.us/j/91600045618?pwd=dGxWVGQ4RTBzM3c5RUwzUE5HSVRZQT09" class="btn btn-primary">Visitar</a>
          </div>
       </div>
-      <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/woman_young_women.jpeg" alt="Card image">
+      <div class="card">
+         <img class="card-img-top" src="assets/img/woman_young_women.jpeg" alt="Classe das Moças">
          <div class="card-body">
             <h4 class="card-title">Classe das Moças</h4>
             <p class="card-text">2° e 4° domingo | 10:30 hs.</p>
@@ -63,26 +63,26 @@ sitemap:
    </div>
    <br />
    <div class="card-deck">
-      <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/young_men_church.jpeg" alt="Card image">
+      <div class="card">
+         <img class="card-img-top" src="assets/img/young_men_church.jpeg" alt="Classe dos Rapazes">
          <div class="card-body">
             <h4 class="card-title">Classe dos Rapazes</h4>
             <p class="card-text">2° e 4° domingo | 10:30 hs.</p>
             <a target="_blank" href="https://meet.google.com/jza-jvgm-wwt" class="btn btn-primary">Visitar</a>
          </div>
       </div>
-      <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/young_woman_relief_society.jpeg" alt="Card image">
+      <div class="card">
+         <img class="card-img-top" src="assets/img/young_woman_relief_society.jpeg" alt="Sociedade de Socorro">
          <div class="card-body">
             <h4 class="card-title">Sociedade de Socorro</h4>
             <p class="card-text">2° e 4° domingo | 11:15 hs.</p>
             <a target="_blank" href="https://us05web.zoom.us/j/85093942588?pwd=Rkg0emJ5YTZNeHJJcU5XSERRMWp5UT09" class="btn btn-primary">Visitar</a>
          </div>
       </div>
-      <div class="card" style="width:400px">
+      <div class="card">
          <img class="card-img-top" src="assets/img/group_of_men.jpeg" alt="Card image">
          <div class="card-body">
-            <h4 class="card-title">Quórum de Élderes</h4>
+            <h4 class="Quórum de Élderes">Quórum de Élderes</h4>
             <p class="card-text">2° e 4° domingo | 10:30 hs.</p>
             <a target="_blank" href="https://us04web.zoom.us/j/76678561889?pwd=UjhNa3BIamNyU0hGNW1McXNhOG8yQT09" class="btn btn-primary">Visitar</a>
          </div>
