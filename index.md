@@ -18,7 +18,7 @@ sitemap:
          </div>
       </div>
       <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/pictures_of_jesus_with_a_child.jpeg" alt="Todos os domingos | 11:15 hs">
+         <img class="card-img-top" src="assets/img/primary_lds.jpeg" alt="Todos os domingos | 11:15 hs">
          <div class="card-body">
             <h4 class="card-title">Primária</h4>
             <p class="card-text">Todos os domingos | 11:15 hs.</p>
