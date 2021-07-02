@@ -17,8 +17,8 @@ sitemap:
             <a target="_blank" href="https://zoom.us/j/91870847588" class="btn btn-primary">Visitar</a>
          </div>
       </div>
-      <div class="card" style="width:400px">
-         <img class="card-img-top" src="assets/img/primary_lds.jpeg" alt="Todos os domingos | 11:15 hs">
+      <div class="card">
+         <img class="card-img-top" src="assets/img/primary_lds.jpeg" alt="Primária">
          <div class="card-body">
             <h4 class="card-title">Primária</h4>
             <p class="card-text">Todos os domingos | 11:15 hs.</p>
