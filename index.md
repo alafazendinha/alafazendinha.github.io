@@ -3,7 +3,7 @@ layout: page
 full_logo: true
 title: Reuniões
 subtitle: Programação e links das reuniões
-description: Ala fazendinha: programação e informações.
+description: Ala fazendinha, programação e informações.
 sitemap:
   priority: 1.0
 ---

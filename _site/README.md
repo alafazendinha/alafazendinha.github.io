@@ -1,5 +1,5 @@
 # Pudhina Fresh
-Ala fazendinha: programação e informações.
+Ala fazendinha, programação e informações.
 
 Live Demo: [ritijjain.github.io/pudhina-fresh](https://ritijjain.github.io/pudhina-fresh), [ritijjain.com](https://ritijjain.com/)
 
