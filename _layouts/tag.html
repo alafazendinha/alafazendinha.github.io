@@ -20,24 +20,6 @@ layout: page
 <p>No posts with this tag.</p>
 {% endif %}
 
-<h1>Projects</h1>
-<br>
-<div class="card-columns">
-    {% for project in site.data.projects %}
-    {% unless project.listed == false %}
-        {% for tag in project.tags %}
-            {% if tag == page.tag %}
-                {% include post/project_card.html %}
-                {% assign project_exists = true %}
-            {% endif %}
-        {% endfor %} 
-    {% endunless %}
-    {% endfor %}
-</div>
-{% if project_exists == false %}
-<p>No projects with this tag.</p>
-{% endif %}
-
 <h1>Tags</h1>
 <br>
 {% for page in site.pages %}
