@@ -2,7 +2,7 @@
 # Required front matter
 layout: post # Posts should use the post layout
 title: “Arma alguma que se forme contra vós prosperará” # Post title
-date: 2021-06-30 # Publish date in YYYY-MM-DD format
+date: 2021-07-04 # Publish date in YYYY-MM-DD format
 
 # Recommended front matter
 tags: [vem-e-segue-me] # A list of tags
