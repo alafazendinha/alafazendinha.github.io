@@ -5,7 +5,7 @@ title: Segunda noite familiar especial # Post title
 date: 2021-06-30 # Publish date in YYYY-MM-DD format
 
 # Recommended front matter
-tags: # A list of tags
+tags: [noticias] # A list of tags
 splash_img_source: /assets/img/2021-07-01_00-19.png # Splash image source, high resolution images with an aspect ratio close to 4:3 recommended
 splash_img_caption: 
 
