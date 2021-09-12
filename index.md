@@ -49,7 +49,7 @@ sitemap:
          <div class="card-body">
             <h4 class="card-title">Escola Dominical - Jovens 15-17</h4>
             <p class="card-text"><b>1° e 3° domingo | 10:30 hs.</b></p>
-            <a target="_blank" href="https://zoom.us/j/91600045618?pwd=dGxWVGQ4RTBzM3c5RUwzUE5HSVRZQT09" class="btn btn-primary">Visitar</a>
+            <a target="_blank" href="https://zoom.us/j/96855579405?pwd=bXBObkpXVlVXK2llRWVvN2hLeC9EUT09" class="btn btn-primary">Visitar</a>
          </div>
       </div>
       <div class="card">
@@ -76,7 +76,7 @@ sitemap:
          <div class="card-body">
             <h4 class="card-title">Sociedade de Socorro</h4>
             <p class="card-text"><b>2° e 4° domingo | 10:30 hs.</b></p>
-            <a target="_blank" href="https://us05web.zoom.us/j/85093942588?pwd=Rkg0emJ5YTZNeHJJcU5XSERRMWp5UT09" class="btn btn-primary">Visitar</a>
+            <a target="_blank" href="meet.google.com/egd-sqfg-ahq" class="btn btn-primary">Visitar</a>
          </div>
       </div>
       <div class="card">
